@@ -15,6 +15,24 @@ bun-nextjs-ecommerce-demo is a simple template website for you to start using th
 
 To run bun-nextjs-ecommerce-demo on your local machine, follow these steps:
 
+Before installation make sure you have bun
+```
+bun --version
+```
+
+Otherwise ddownload here https://bun.sh/, after the installation of npm you can start with yarn installation:
+
+```
+curl -fsSL https://bun.sh/install | bash
+```
+Check installation:
+
+```
+bun --version
+```
+
+Now you are ready to start with:
+
 1. Clone the repository:
 
     ```bash
