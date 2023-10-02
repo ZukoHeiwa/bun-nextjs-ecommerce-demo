@@ -1,6 +1,6 @@
 # bun-nextjs-ecommerce-demo
 
-bun-nextjs-ecommerce-demo is a simple template website for you to start using that includes Bun package manager, NextJS, and TailwindCSS.
+bun-nextjs-ecommerce-demo is a simple E-commerce template website for you to start using that includes Bun package manager, NextJS, and TailwindCSS.
 
 ## Table of Contents
 
